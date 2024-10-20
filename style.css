@@ -92,6 +92,8 @@ a{
 }
 span{
     color:rgb(174, 38, 38);
+
+	
 }
 .section1button h1{
     letter-spacing:35px;
@@ -117,7 +119,13 @@ span{
     outline: none;
     cursor: pointer;
     border: transparent !important;
+
 	
+}
+
+.btn1 a{
+
+	color: #f2f2f2	;
 }
 .btn1:hover{
    
