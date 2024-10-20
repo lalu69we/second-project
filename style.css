@@ -8,7 +8,7 @@ font-family:  sans-serif;
 .container{
     width: 100% ;
     height :100% ;
-	
+	margin-bottom: 1000px;
 
 }
 
@@ -71,7 +71,7 @@ a{
     transform: translate(-15%,-50%);
 }
 .section1 img {
-    height: 500px;
+    height: 552px;
 }
 .section1button{
 	position: absolute;
